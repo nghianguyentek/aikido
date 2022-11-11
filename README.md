@@ -1,2 +1,1 @@
-# aikido
-Aikido resources
+# Aikido resources
